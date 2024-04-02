@@ -1,0 +1,15 @@
+.create-goods_wrapper {
+    width: 320px;
+    height: 230px;
+}
+
+.input_wrapper {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+}

@@ -1,0 +1,45 @@
+.list_item {
+    position: relative;
+
+    width: 30%;
+
+    border: 1px solid gray;
+
+    margin-bottom: 10px;
+}
+
+.discount {
+    width: 40px;
+    
+    color: red;
+
+    border: 1px solid red;
+    border-radius: 50%;
+
+    background-color: rgb(255, 251, 176);
+
+    padding: 5px;
+    position: absolute;
+    top: 10px; left: 10px;
+}
+
+.good_image {
+    width: 100%;
+}
+
+.price_box {
+    display: flex;
+    justify-content: space-around;
+
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.price_old {
+    color: rgb(170, 169, 169);
+    text-decoration: line-through;
+}
+
+.good_title {
+    padding: 10px;
+}
